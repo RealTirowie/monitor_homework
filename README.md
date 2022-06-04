@@ -1,7 +1,7 @@
 # monitor_homework
 This script checks if a new task was assigned in moodle and send email notification.
 
-The script uses Selenium to login to the students zone, checks if new tasks compared to last time are available and sends out an email via gmail.
+The script uses Selenium and chrome driver to login to the students zone, checks if new tasks compared to last time are available and sends out an email via gmail.
 
 There are 2 versions:
 1. for Windows (moodle_Win.py)
